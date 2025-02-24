@@ -30,7 +30,7 @@ npm start
 Open the application in your browser http://localhost:3000
 
 ## Salary Expectations per month:
-≈ $4800 (Negotiable according to skill level)
+≈ $4800 (Negotiable according to my skill level)
 
 
 
