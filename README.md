@@ -33,5 +33,7 @@ Open the application in your browser http://localhost:3000
 ≈ $4800 (Negotiable according to my skill level)
 
 
+## Demo Video link:
+https://youtu.be/YDrcOSf0-M4
 
 
