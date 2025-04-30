@@ -2,6 +2,9 @@
 
 This is a Task Management Application built with React + TypeScript (frontend), Node.js (backend), and PostgreSQL (database). The application allows users to signup, log in, and manage their tasks (create, view, update, delete) while ensuring that only authenticated users can perform task operations.
 
+## Demo Video link:
+https://youtu.be/YDrcOSf0-M4
+
 #Backend Setup:
 
 git clone _your-repo-url_
@@ -29,11 +32,5 @@ npm start
 
 Open the application in your browser http://localhost:3000
 
-## Salary Expectations per month:
-≈ $4800 (Negotiable according to my skill level)
-
-
-## Demo Video link:
-https://youtu.be/YDrcOSf0-M4
 
 
